@@ -1,4 +1,4 @@
-# project-11-Docker
+# Docker
 
 ## Description
 In this project we were familiarized with **Docker**, where we:
